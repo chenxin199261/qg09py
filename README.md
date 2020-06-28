@@ -5,7 +5,7 @@ A python script to submit gaussian09 job to server.
 This program generates a pbs file
 
 
-'''
+<code>
 
 #!/bin/bash
 #$ -S /bin/bash
@@ -36,7 +36,7 @@ rm -rf $SGE_O_WORKDIR/$REQUEST.o*
 rm -rf $SGE_O_WORKDIR/$REQUEST.p*
 
 
-'''
+</code>
        
        
 # Examples:
