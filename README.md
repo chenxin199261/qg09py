@@ -34,8 +34,6 @@ rm -rf $GAUSS_RUNDIR
 rm -rf $SGE_O_WORKDIR/$REQUEST.e*
 rm -rf $SGE_O_WORKDIR/$REQUEST.o*
 rm -rf $SGE_O_WORKDIR/$REQUEST.p*
-
-
 </code>
        
        
